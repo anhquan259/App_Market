@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_Market_KT</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_favorite">Yêu thích</string>
+    <string name="nav_history">Lịch sử</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="nav_my_profile">Thông tin của tôi</string>
+    <string name="nav_change_info">Đổi mật khẩu</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="nav_exit">Thoát</string>
+    <string name="nav_notice">Thông báo</string>
+    <string name="nav_cart">Giỏ hàng</string>
+</resources>
