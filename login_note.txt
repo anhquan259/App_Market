@@ -1,0 +1,5 @@
+----------- form login test -----------
+
+user: 		annhquan2511@gmail.com	
+password:	123456
+---------------------------------------
